@@ -1,6 +1,5 @@
 # C-LREX-Tool
-Cable Driven Lower-limb Rehabilitation Exoskeleton
-
+Tool for analysis of Cable Driven Lower-limb Rehabilitation Exoskeleton 
 
 A video demonstration to use the tool can be found on YouTube.
 
