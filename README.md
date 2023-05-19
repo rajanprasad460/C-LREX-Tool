@@ -36,6 +36,10 @@ Unlock the full potential of your cable-driven lower-limb rehabilitation exoskel
 
 Welcome to the fascinating world of the C-LREX Tool! This powerful software application enables you to analyze and evaluate Cable Driven Lower-limb Rehabilitation Exoskeletons. Experience the latest advancements and enhanced features by using the most recent release version of the tool. Be sure to refer to the [latest release](https://github.com/rajanprasad460/C-LREX-Tool/releases/) for the best experience.
 
+
+![Alt Text](Exo_Animation-1.gif)
+
+
 ## Table of Contents
 
 1. [C-LREX Conceptual Configuration Simulation](#c-lrex-conceptual-configuration-simulation)
