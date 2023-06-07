@@ -27,7 +27,7 @@ The C-LREX-Tool is released under the [MIT License](LICENSE). Please refer to th
 
 ## Acknowledgments
 We would like to express our gratitude to all contributors and developers who have made the C-LREX-Tool possible.
-The authors extend their thanks to **Dr. Marwan El-Rich (Khalifa University)**, **Dr. Mohammad I. Awad (Khalifa University)**, **Dr. Kinda Khalaf (Khalifa University)**, **Dr. Irfan Hussain (Khalifa University)**, **Dr. Herbert Jelinek (Herbert Jelinek)**, **Dr. Umer Huzaifa (DePaul University)**, and **Dr. Sunil K. Agrawal (Columbia University)** for their valuable guidance and support throughout the work.
+The authors extend their thanks to **Dr. Marwan El-Rich (Khalifa University)**, **Dr. Mohammad I. Awad (Khalifa University)**, **Dr. Kinda Khalaf (Khalifa University)**, **Dr. Irfan Hussain (Khalifa University)**, **Dr. Herbert Jelinek (Khalifa University)**, **Dr. Umer Huzaifa (DePaul University)**, and **Dr. Sunil K. Agrawal (Columbia University)** for their valuable guidance and support throughout the work.
 
 Unlock the full potential of your cable-driven lower-limb rehabilitation exoskeleton with the C-LREX-Tool. Start exploring and optimizing your designs today!
 
